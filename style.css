@@ -1,0 +1,68 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 15px;
+  padding: 23px;
+  padding-bottom: 50px;
+}
+h1 {
+  color: white;
+  font-family: outfit;
+  font-size: 22px;
+  font-weight: 400;
+}
+p {
+  font-family: outfit;
+  font-weight: 300;
+  color: hsl(215, 51%, 70%);
+  font-size: 18px;
+}
+.eth {
+  color: hsl(178, 100%, 50%);
+  padding-right: 110px;
+  font-family: outfit;
+  font-weight: 600;
+}
+.days {
+  color: hsl(215, 51%, 70%);
+  font-family: outfit;
+}
+.creation {
+  color: hsl(215, 51%, 70%);
+  font-family: outfit;
+  word-spacing: 1px;
+  vertical-align: middle;
+}
+.jules {
+  color: white;
+  font-family: outfit;
+  word-spacing: 2px;
+  vertical-align: middle;
+}
+.image1 {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
+.image2 {
+}
+.image3 {
+}
+.image4 {
+  width: 30px;
+  height: 25px;
+  padding-top: 5px;
+  border: 1px white solid;
+  border-radius: 100%;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+hr {
+  margin-bottom: 20px;
+  opacity: 0.2;
+}
